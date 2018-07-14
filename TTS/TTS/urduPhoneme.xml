@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
+                   http://www.w3.org/TR/speech-synthesis/synthesis.xsd"
+       xml:lang="en-US">
+  <phoneme alphabet="ipa" ph="ɑ">ا</phoneme>
+  <phoneme alphabet="ipa" ph="ɑ">ٓ</phoneme>
+  <phoneme alphabet="ipa" ph="b">ب</phoneme>
+  <phoneme alphabet="ipa" ph="p">پ</phoneme>
+  <phoneme alphabet="ipa" ph="t̪">ت</phoneme>
+  <phoneme alphabet="ipa" ph="ʈ">ٹ</phoneme>
+  <phoneme alphabet="ipa" ph="s">ث</phoneme>
+  <phoneme alphabet="ipa" ph="dʒ">ج</phoneme>
+  <phoneme alphabet="ipa" ph="tʃ">چ</phoneme>
+  <phoneme alphabet="ipa" ph="h">ح</phoneme>
+  <phoneme alphabet="ipa" ph="x">خ</phoneme>
+  <phoneme alphabet="ipa" ph="d̪">د</phoneme>
+  <phoneme alphabet="ipa" ph="ɖ">ڈ</phoneme>
+  <phoneme alphabet="ipa" ph="z">ذ</phoneme>
+  <phoneme alphabet="ipa" ph="r">ر</phoneme>
+  <phoneme alphabet="ipa" ph="ɽ">ڑ</phoneme>
+  <phoneme alphabet="ipa" ph="z">ز</phoneme>
+  <phoneme alphabet="ipa" ph="ʒ">ژ</phoneme>
+  <phoneme alphabet="ipa" ph="s">س</phoneme>
+  <phoneme alphabet="ipa" ph="ʃ">ش</phoneme>
+  <phoneme alphabet="ipa" ph="s">ص</phoneme>
+  <phoneme alphabet="ipa" ph="z">ض</phoneme>
+  <phoneme alphabet="ipa" ph="t̪">ط</phoneme>
+  <phoneme alphabet="ipa" ph="z">ظ</phoneme>
+  <phoneme alphabet="ipa" ph="ɑ">ع</phoneme>
+  <phoneme alphabet="ipa" ph="ɣ">غ</phoneme>
+  <phoneme alphabet="ipa" ph="f">ف</phoneme>
+  <phoneme alphabet="ipa" ph="k">ک</phoneme>
+  <phoneme alphabet="ipa" ph="q">ق</phoneme>
+  <phoneme alphabet="ipa" ph="g">گ</phoneme>
+  <phoneme alphabet="ipa" ph="l">ل</phoneme>
+  <phoneme alphabet="ipa" ph="m">م</phoneme>
+  <phoneme alphabet="ipa" ph="n">ن</phoneme>
+  <phoneme alphabet="ipa" ph="u">و</phoneme>
+  <phoneme alphabet="ipa" ph="ʰ">ھ</phoneme>
+  <phoneme alphabet="ipa" ph="h">ہ</phoneme>
+  <phoneme alphabet="ipa" ph="ə">ء</phoneme>
+  <phoneme alphabet="ipa" ph="i">ئ</phoneme>
+  <phoneme alphabet="ipa" ph="i">ی</phoneme>
+  <phoneme alphabet="ipa" ph="e">ے</phoneme>
+</speak>

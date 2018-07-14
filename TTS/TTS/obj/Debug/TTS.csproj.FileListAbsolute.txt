@@ -1,0 +1,15 @@
+c:\users\zeeshan.khan\documents\visual studio 2015\Projects\TTS\TTS\bin\Debug\TTS.exe.config
+c:\users\zeeshan.khan\documents\visual studio 2015\Projects\TTS\TTS\bin\Debug\TTS.exe
+c:\users\zeeshan.khan\documents\visual studio 2015\Projects\TTS\TTS\bin\Debug\TTS.pdb
+c:\users\zeeshan.khan\documents\visual studio 2015\Projects\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+c:\users\zeeshan.khan\documents\visual studio 2015\Projects\TTS\TTS\obj\Debug\TTS.exe
+c:\users\zeeshan.khan\documents\visual studio 2015\Projects\TTS\TTS\obj\Debug\TTS.pdb
+D:\E-Drive\TTS\TTS\TTS\bin\Debug\TTS.exe.config
+D:\E-Drive\TTS\TTS\TTS\obj\Debug\TTS.exe
+D:\E-Drive\TTS\TTS\TTS\obj\Debug\TTS.pdb
+D:\E-Drive\TTS\TTS\TTS\bin\Debug\TTS.exe
+D:\E-Drive\TTS\TTS\TTS\bin\Debug\TTS.pdb
+D:\E-Drive\TTS\TTS\TTS\obj\Debug\TTS.csprojResolveAssemblyReference.cache
+D:\E-Drive\TTS\TTS\TTS\bin\Debug\urduPhoneme.xml
+D:\E-Drive\TTS\TTS\TTS\obj\Debug\TTS.Speak.resources
+D:\E-Drive\TTS\TTS\TTS\obj\Debug\TTS.csproj.GenerateResource.Cache
